@@ -1,5 +1,7 @@
 # arc_length_tutorial
-# Using Princeton Clusters (web interface)
+The notebooks need to be opened on the jupyterlab/jupyter notebook interface in a conda environment created in a command below. If you don't know what any of this means use the instructions below to run these on the cluster in your browser.
+
+## Using Princeton Clusters (web interface)
 
 The steps have been described for adroit, but the same can be done on della using the mydella interface
 
